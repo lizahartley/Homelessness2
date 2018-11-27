@@ -1,0 +1,64 @@
+#about_blue{
+  border-style: dashed;
+  border-width: 3px;
+  border-style:inset;
+  background-color: #99ccff;
+}
+#about_blue_list{
+  color: blue;
+}
+
+body {
+  background-image: url(Clouds.png);
+  font-family: Lato;
+}
+h1,
+h2{
+  text-align: center;
+  font-family: Almendra;
+}
+
+#NHS{
+  color:#DC143C
+}
+
+#rough{
+  font-size: 20px;
+  color:#00008B
+}
+
+#volunteer{
+  font-size: 20px;
+  color:#00008B
+}
+
+#homeless{
+  align:center;
+}
+
+#nav{
+  text-align: center;
+}
+
+h1{
+  font-size: 60px
+}
+
+#about_yellow{
+  border-style: dashed;
+  border-color: #99ccff;
+  border-width: 3px;
+  background-color: #bcd4e6;
+}
+#about_yellow li{
+  color: orange
+}
+.important{
+  font-size: 16px;
+}
+
+<i class="fa fa-cloud"></i>
+<i class="fa fa-heart"></i>
+<i class="fa fa-car"></i>
+<i class="fa fa-file"></i>
+<i class="fa fa-bars"></i>
